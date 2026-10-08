@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Profile Views Counter](https://komarev.com)
-
+![Visitor Count](https://profile-counter.glitch.me/arrnstrd/count.svg)
