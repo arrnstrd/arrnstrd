@@ -2,29 +2,13 @@
 
 **Junior Full-Stack Developer** based in the Philippines.
 
-I build web applications using Laravel, React, SQL, and PostgreSQL. I'm interested in backend development, databases, DevOps, and application security.
-
+I build web applications using Laravel, React, SQL, and PostgreSQL. I'm interested in backend development, databases, and DevOps
 ## Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=php,laravel,js,react,html,css,bootstrap,mysql,postgres,supabase,docker,linux,git,github,postman" />
 </p>
 
-## Featured Project
-
-### CIS Capstone
-
-**Web-Based QR Student Attendance Monitoring with Centralized Academic Management System**
-
-A school management and attendance system built with Laravel and PostgreSQL/Supabase.
-
-* QR-based student time-in and time-out
-* Attendance monitoring and verification
-* Academic and grading management
-* Role-based access control
-* Reports and data management
-* Email notifications
-* Docker-based deployment
 
 ## GitHub Stats
 
@@ -42,7 +26,8 @@ A school management and attendance system built with Laravel and PostgreSQL/Supa
 * Full-Stack Web Development
 * Backend Architecture
 * DevOps & Docker
-* Application Security
+* Python
+* FastAPI
 * Linux
 
 <p align="center">
