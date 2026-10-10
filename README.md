@@ -19,9 +19,8 @@ I build web applications using Laravel, React, SQL, and PostgreSQL. I'm interest
 
 ## Profile Views
 
-
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=arrnstrd&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://views-counter.vercel.app/badge?pageId=arrnstrd%2Fprofile" alt="Profile Views" />
 </p>
 
 ## Currently Learning
