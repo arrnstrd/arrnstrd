@@ -17,11 +17,7 @@ I build web applications using Laravel, React, SQL, and PostgreSQL. I'm interest
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arrnstrd&layout=compact&hide_border=true" height="170" />
 </p>
 
-## Profile Views
 
-<p align="left">
-  <img src="https://views-counter.vercel.app/badge?pageId=arrnstrd%2Fprofile" alt="Profile Views" />
-</p>
 
 ## Currently Learning
 
